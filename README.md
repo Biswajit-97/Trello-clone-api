@@ -1,4 +1,4 @@
-# Trello Clone With MERN Stack!
+# Trello Clone - Backend and API
 
 # Features
 
