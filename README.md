@@ -23,13 +23,10 @@
 
 ## How to run?
 
-To run it locally just
-  --
-  npm install
-  --
-on project directory
-Then
-  --
-  npm start
-  --
-the project will start on port 3001
+- To run it locally just
+  ### `npm start`
+
+- Then
+  ### `npm start`
+  
+- the project will start on port 3001
