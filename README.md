@@ -29,4 +29,4 @@
 - Then
   ### `npm start`
   
-- the project will start on port 3001
+- the project will will live port 3001
